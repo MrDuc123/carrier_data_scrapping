@@ -1,0 +1,1000 @@
+id,name,slug
+1,An Giang,an-giang
+2,Bà Rịa-Vũng Tàu,ba-ria-vung-tau
+3,Bắc Giang,bac-giang
+4,Bắc Kạn,bac-kan
+5,Bạc Liêu,bac-lieu
+6,Bắc Ninh,bac-ninh
+7,Bến Tre,ben-tre
+8,Bình Định,binh-dinh
+9,Bình Dương,binh-duong
+10,Bình Phước,binh-phuoc
+11,Bình Thuận,binh-thuan
+12,Cà Mau,ca-mau
+13,Cần Thơ,can-tho
+14,Cao Bằng,cao-bang
+15,Đà Nẵng,da-nang
+16,Đắk Lắk,dak-lak
+17,Đắk Nông,dak-nong
+18,Điện Biên,dien-bien
+19,Đồng Nai,dong-nai
+20,Đồng Tháp,dong-thap
+21,Gia Lai,gia-lai
+22,Hà Giang,ha-giang
+23,Hà Nam,ha-nam
+24,Hà Nội,ha-noi
+25,Hà Tĩnh,ha-tinh
+26,Hải Dương,hai-duong
+27,Hải Phòng,hai-phong
+28,Hậu Giang,hau-giang
+29,Hồ Chí Minh,ho-chi-minh
+30,Hòa Bình,hoa-binh
+31,Hưng Yên,hung-yen
+32,Khánh Hòa,khanh-hoa
+33,Kiên Giang,kien-giang
+34,Kon Tum,kon-tum
+35,Lai Châu,lai-chau
+36,Lâm Đồng,lam-dong
+37,Lạng Sơn,lang-son
+38,Lào Cai,lao-cai
+39,Long An,long-an
+40,Nam Định,nam-dinh
+41,Nghệ An,nghe-an
+42,Ninh Bình,ninh-binh
+43,Ninh Thuận,ninh-thuan
+44,Phú Thọ,phu-tho
+45,Phú Yên,phu-yen
+46,Quảng Bình,quang-binh
+47,Quảng Nam,quang-nam
+48,Quảng Ngãi,quang-ngai
+49,Quảng Ninh,quang-ninh
+50,Quảng Trị,quang-tri
+51,Sóc Trăng,soc-trang
+52,Sơn La,son-la
+53,Tây Ninh,tay-ninh
+54,Thái Bình,thai-binh
+55,Thái Nguyên,thai-nguyen
+56,Thanh Hóa,thanh-hoa
+57,Thừa Thiên Huế,thua-thien-hue
+58,Tiền Giang,tien-giang
+59,Trà Vinh,tra-vinh
+60,Tuyên Quang,tuyen-quang
+61,Vĩnh Long,vinh-long
+62,Vĩnh Phúc,vinh-phuc
+63,Yên Bái,yen-bai
+64,An Phú,an-phu
+65,Châu Đốc,chau-doc
+66,Châu Phú,chau-phu
+67,Châu Thành,chau-thanh
+68,Chợ Mới,cho-moi
+69,Long Xuyên,long-xuyen
+70,Phú Tân,phu-tan
+71,Tân Châu,tan-chau
+72,Thoại Sơn,thoai-son
+73,Tịnh Biên,tinh-bien
+74,Tri Tôn,tri-ton
+75,Tân Thành,tan-thanh
+76,Vũng Tàu,vung-tau
+77,Xuyên Mộc,xuyen-moc
+78,Bà Rịa,ba-ria
+79,Châu Đức,chau-duc
+80,Côn Đảo,con-dao
+81,Đất Đỏ,dat-do
+82,Long Điền,long-dien
+83,Bắc Giang,bac-giang
+84,Hiệp Hòa,hiep-hoa
+85,Lạng Giang,lang-giang
+86,Lục Nam,luc-nam
+87,Lục Ngạn,luc-ngan
+88,Sơn Động,son-dong
+89,Tân Yên,tan-yen
+90,Việt Yên,viet-yen
+91,Yên Dũng,yen-dung
+92,Yên Thế,yen-the
+93,Ba Bể,ba-be
+94,Bạch Thông,bach-thong
+95,Bắc Kạn,bac-kan
+96,Chợ Đồn,cho-don
+97,Chợ Mới,cho-moi
+98,Na Rì,na-ri
+99,Ngân Sơn,ngan-son
+100,Pác Nặm,pac-nam
+101,Bạc Liêu,bac-lieu
+102,Đông Hải,dong-hai
+103,Giá Rai,gia-rai
+104,Hoà Bình,hoa-binh
+105,Hồng Dân,hong-dan
+106,Phước Long,phuoc-long
+107,Vĩnh Lợi,vinh-loi
+108,Bắc Ninh,bac-ninh
+109,Gia Bình,gia-binh
+110,Lương Tài,luong-tai
+111,Quế Võ,que-vo
+112,Thuận Thành,thuan-thanh
+113,Tiên Du,tien-du
+114,Từ Sơn,tu-son
+115,Yên Phong,yen-phong
+116,Ba Tri,ba-tri
+117,Bến Tre,ben-tre
+118,Bình Đại,binh-dai
+119,Châu Thành,chau-thanh
+120,Chợ Lách,cho-lach
+121,Giồng Trôm,giong-trom
+122,Mỏ Cày Bắc,mo-cay-bac
+123,Mỏ Cày Nam,mo-cay-nam
+124,Thạnh Phú,thanh-phu
+125,An Lão,an-lao
+126,An Nhơn,an-nhon
+127,Hoài Ân,hoai-an
+128,Hoài Nhơn,hoai-nhon
+129,Phù Cát,phu-cat
+130,Phù Mỹ,phu-my
+131,Quy Nhơn,quy-nhon
+132,Tây Sơn,tay-son
+133,Tuy Phước,tuy-phuoc
+134,Vân Canh,van-canh
+135,Vĩnh Thạnh,vinh-thanh
+136,Bến Cát,ben-cat
+137,Dầu Tiếng,dau-tieng
+138,Dĩ An,di-an
+139,Phú Giáo,phu-giao
+140,Tân Uyên,tan-uyen
+141,Thủ Dầu Một,thu-dau-mot
+142,Thuận An,thuan-an
+143,Bình Long,binh-long
+144,Bù Đăng,bu-dang
+145,Bù Đốp,bu-dop
+146,Bù Gia Mập,bu-gia-map
+147,Chơn Thành,chon-thanh
+148,Đồng Phú,dong-phu
+149,Đồng Xoài,dong-xoai
+150,Hớn Quản,hon-quan
+151,Lộc Ninh,loc-ninh
+152,Phước Long,phuoc-long
+153,Bắc Bình,bac-binh
+154,Đức Linh,duc-linh
+155,Hàm Tân,ham-tan
+156,Hàm Thuận Bắc,ham-thuan-bac
+157,Hàm Thuận Nam,ham-thuan-nam
+158,La Gi,la-gi
+159,Phan Thiết,phan-thiet
+160,Phú Quý,phu-quy
+161,Tánh Linh,tanh-linh
+162,Tuy Phong,tuy-phong
+163,Cà Mau,ca-mau
+164,Cái Nước,cai-nuoc
+165,Đầm Dơi,dam-doi
+166,Năm Căn,nam-can
+167,Ngọc Hiển,ngoc-hien
+168,Phú Tân,phu-tan
+169,Thới Bình,thoi-binh
+170,Trần Văn Thời,tran-van-thoi
+171,U Minh,u-minh
+172,Bình Thủy,binh-thuy
+173,Cái Răng,cai-rang
+174,Cờ Đỏ,co-do
+175,Ninh Kiều,ninh-kieu
+176,Ô Môn,o-mon
+177,Phong Điền,phong-dien
+178,Thốt Nốt,thot-not
+179,Thới Lai,thoi-lai
+180,Vĩnh Thạnh,vinh-thanh
+181,Bảo Lạc,bao-lac
+182,Bảo Lâm,bao-lam
+183,Cao Bằng,cao-bang
+184,Hà Quảng,ha-quang
+185,Hạ Lang,ha-lang
+186,Hòa An,hoa-an
+187,Nguyên Bình,nguyen-binh
+188,Phục Hòa,phuc-hoa
+189,Quảng Uyên,quang-uyen
+190,Thạch An,thach-an
+191,Thông Nông,thong-nong
+192,Trà Lĩnh,tra-linh
+193,Trùng Khánh,trung-khanh
+194,Cẩm Lệ,cam-le
+195,Hải Châu,hai-chau
+196,Hoà Vang,hoa-vang
+197,Hoàng Sa,hoang-sa
+198,Liên Chiểu,lien-chieu
+199,Ngũ Hành Sơn,ngu-hanh-son
+200,Sơn Trà,son-tra
+201,Thanh Khê,thanh-khe
+202,Buôn Đôn,buon-don
+203,Buôn Hồ,buon-ho
+204,Buôn Ma Thuột,buon-ma-thuot
+205,Cư Kuin,cu-kuin
+206,Cư M`gar,cu-m-gar
+207,Ea H`leo,ea-h-leo
+208,Ea Kar,ea-kar
+209,Ea Súp,ea-sup
+210,Krông Ana,krong-ana
+211,Krông Bông,krong-bong
+212,Krông Búk,krong-buk
+213,Krông Năng,krong-nang
+214,Krông Pắk,krong-pak
+215,Lắk,lak
+216,M`Đrăk,m-drak
+217,Cư Jút,cu-jut
+218,Đăk Glong,dak-glong
+219,Đăk Mil,dak-mil
+220,Đăk R`Lấp,dak-r-lap
+221,Đăk Song,dak-song
+222,Gia Nghĩa,gia-nghia
+223,Krông Nô,krong-no
+224,Tuy Đức,tuy-duc
+225,Điện Biên,dien-bien
+226,Điện Biên Đông,dien-bien-dong
+227,Điện Biên Phủ,dien-bien-phu
+228,Mường Ảng,muong-ang
+229,Mường Chà,muong-cha
+230,Mường Lay,muong-lay
+231,Mường Nhé,muong-nhe
+232,Nậm Pồ,nam-po
+233,Tủa Chùa,tua-chua
+234,Tuần Giáo,tuan-giao
+235,Biên Hòa,bien-hoa
+236,Cẩm Mỹ,cam-my
+237,Định Quán,dinh-quan
+238,Long Khánh,long-khanh
+239,Long Thành,long-thanh
+240,Nhơn Trạch,nhon-trach
+241,Tân Phú,tan-phu
+242,Thống Nhất,thong-nhat
+243,Trảng Bom,trang-bom
+244,Vĩnh Cửu,vinh-cuu
+245,Xuân Lộc,xuan-loc
+246,Thành phố Cao Lãnh,thanh-pho-cao-lanh
+247,Huyện Cao Lãnh,huyen-cao-lanh
+248,Châu Thành,chau-thanh
+249,Thị xã Hồng Ngự,thi-xa-hong-ngu
+250,Huyện Hồng Ngự,huyen-hong-ngu
+251,Lai Vung,lai-vung
+252,Lấp Vò,lap-vo
+253,Sa Đéc,sa-dec
+254,Tam Nông,tam-nong
+255,Tân Hồng,tan-hong
+256,Thanh Bình,thanh-binh
+257,Tháp Mười,thap-muoi
+258,An Khê,an-khe
+259,Ayun Pa,ayun-pa
+260,Chư Păh,chu-pah
+261,Chư Prông,chu-prong
+262,Chư Pưh,chu-puh
+263,Chư Sê,chu-se
+264,Đăk Đoa,dak-doa
+265,Đắk Pơ,dak-po
+266,Đức Cơ,duc-co
+267,Ia Grai,ia-grai
+268,Ia Pa,ia-pa
+269,KBang,kbang
+270,Kông Chro,kong-chro
+271,Krông Pa,krong-pa
+272,Mang Yang,mang-yang
+273,Phú Thiện,phu-thien
+274,Pleiku,pleiku
+275,Bắc Mê,bac-me
+276,Bắc Quang,bac-quang
+277,Đồng Văn,dong-van
+278,Hà Giang,ha-giang
+279,Hoàng Su Phì,hoang-su-phi
+280,Mèo Vạc,meo-vac
+281,Quản Bạ,quan-ba
+282,Quang Bình,quang-binh
+283,Vị Xuyên,vi-xuyen
+284,Xín Mần,xin-man
+285,Yên Minh,yen-minh
+286,Bình Lục,binh-luc
+287,Duy Tiên,duy-tien
+288,Kim Bảng,kim-bang
+289,Lý Nhân,ly-nhan
+290,Phủ Lý,phu-ly
+291,Thanh Liêm,thanh-liem
+292,Ba Đình,ba-dinh
+293,Ba Vì,ba-vi
+294,Cầu Giấy,cau-giay
+295,Chương Mỹ,chuong-my
+296,Đan Phượng,dan-phuong
+297,Đông Anh,dong-anh
+298,Đống Đa,dong-da
+299,Gia Lâm,gia-lam
+300,Hà Đông,ha-dong
+301,Hai Bà Trưng,hai-ba-trung
+302,Hoài Đức,hoai-duc
+303,Hoàn Kiếm,hoan-kiem
+304,Hoàng Mai,hoang-mai
+305,Long Biên,long-bien
+306,Mê Linh,me-linh
+307,Mỹ Đức,my-duc
+308,Phú Xuyên,phu-xuyen
+309,Phúc Thọ,phuc-tho
+310,Quốc Oai,quoc-oai
+311,Sóc Sơn,soc-son
+312,Sơn Tây,son-tay
+313,Tây Hồ,tay-ho
+314,Thạch Thất,thach-that
+315,Thanh Oai,thanh-oai
+316,Thanh Trì,thanh-tri
+317,Thanh Xuân,thanh-xuan
+318,Thường Tín,thuong-tin
+319,Từ Liêm,tu-liem
+320,Ứng Hòa,ung-hoa
+321,Can Lộc,can-loc
+322,Cẩm Xuyên,cam-xuyen
+323,Đức Thọ,duc-tho
+324,Hà Tĩnh,ha-tinh
+325,Hồng Lĩnh,hong-linh
+326,Hương Khê,huong-khe
+327,Hương Sơn,huong-son
+328,Thị xã Kỳ Anh,thi-xa-ky-anh
+329,Lộc Hà,loc-ha
+330,Nghi Xuân,nghi-xuan
+331,Thạch Hà,thach-ha
+332,Vũ Quang,vu-quang
+333,Bình Giang,binh-giang
+334,Cẩm Giàng,cam-giang
+335,Chí Linh,chi-linh
+336,Gia Lộc,gia-loc
+337,Hải Dương,hai-duong
+338,Kim Thành,kim-thanh
+339,Kinh Môn,kinh-mon
+340,Nam Sách,nam-sach
+341,Ninh Giang,ninh-giang
+342,Thanh Hà,thanh-ha
+343,Thanh Miện,thanh-mien
+344,Tứ Kỳ,tu-ky
+345,An Dương,an-duong
+346,An Lão,an-lao
+347,Bạch Long Vĩ,bach-long-vi
+348,Cát Hải,cat-hai
+349,Dương Kinh,duong-kinh
+350,Đồ Sơn,do-son
+351,Hải An,hai-an
+352,Hồng Bàng,hong-bang
+353,Kiến An,kien-an
+354,Kiến Thụy,kien-thuy
+355,Lê Chân,le-chan
+356,Ngô Quyền,ngo-quyen
+357,Thuỷ Nguyên,thuy-nguyen
+358,Tiên Lãng,tien-lang
+359,Vĩnh Bảo,vinh-bao
+360,Châu Thành,chau-thanh
+361,Châu Thành A,chau-thanh-a
+362,Thị xã Long Mỹ,thi-xa-long-my
+363,Ngã Bảy,nga-bay
+364,Phụng Hiệp,phung-hiep
+365,Vị Thanh,vi-thanh
+366,Vị Thủy,vi-thuy
+367,Bình Chánh,binh-chanh
+368,Bình Tân,binh-tan
+369,Bình Thạnh,binh-thanh
+370,Cần Giờ,can-gio
+371,Củ Chi,cu-chi
+372,Gò Vấp,go-vap
+373,Hóc Môn,hoc-mon
+374,Nhà Bè,nha-be
+375,Phú Nhuận,phu-nhuan
+376,Quận 1,quan-1
+377,Quận 2,quan-2
+378,Quận 3,quan-3
+379,Quận 4,quan-4
+380,Quận 5,quan-5
+381,Quận 6,quan-6
+382,Quận 7,quan-7
+383,Quận 8,quan-8
+384,Quận 9,quan-9
+385,Quận 10,quan-10
+386,Quận 11,quan-11
+387,Quận 12,quan-12
+388,Tân Bình,tan-binh
+389,Tân Phú,tan-phu
+390,Thủ Đức,thu-duc
+391,Cao Phong,cao-phong
+392,Đà Bắc,da-bac
+393,Hoà Bình,hoa-binh
+394,Kim Bôi,kim-boi
+395,Kỳ Sơn,ky-son
+396,Lạc Sơn,lac-son
+397,Lạc Thủy,lac-thuy
+398,Lương Sơn,luong-son
+399,Mai Châu,mai-chau
+400,Tân Lạc,tan-lac
+401,Yên Thủy,yen-thuy
+402,Ân Thi,an-thi
+403,Hưng Yên,hung-yen
+404,Khoái Châu,khoai-chau
+405,Kim Động,kim-dong
+406,Mỹ Hào,my-hao
+407,Phù Cừ,phu-cu
+408,Tiên Lữ,tien-lu
+409,Văn Giang,van-giang
+410,Văn Lâm,van-lam
+411,Yên Mỹ,yen-my
+412,Cam Lâm,cam-lam
+413,Cam Ranh,cam-ranh
+414,Diên Khánh,dien-khanh
+415,Khánh Sơn,khanh-son
+416,Khánh Vĩnh,khanh-vinh
+417,Nha Trang,nha-trang
+418,Ninh Hòa,ninh-hoa
+419,Trường Sa,truong-sa
+420,Vạn Ninh,van-ninh
+421,An Biên,an-bien
+422,An Minh,an-minh
+423,Châu Thành,chau-thanh
+424,Giang Thành,giang-thanh
+425,Giồng Riềng,giong-rieng
+426,Gò Quao,go-quao
+427,Hà Tiên,ha-tien
+428,Hòn Đất,hon-dat
+429,Kiên Hải,kien-hai
+430,Kiên Lương,kien-luong
+431,Phú Quốc,phu-quoc
+432,Rạch Giá,rach-gia
+433,Tân Hiệp,tan-hiep
+434,U Minh Thượng,u-minh-thuong
+435,Vĩnh Thuận,vinh-thuan
+436,Đắk Glei,dak-glei
+437,Đắk Hà,dak-ha
+438,Đăk Tô,dak-to
+439,Kon Plông,kon-plong
+440,Kon Rẫy,kon-ray
+441,Kon Tum,kon-tum
+442,Ngọc Hồi,ngoc-hoi
+443,Sa Thầy,sa-thay
+444,Tu Mơ Rông,tu-mo-rong
+445,Lai Châu,lai-chau
+446,Mường Tè,muong-te
+447,Nậm Nhùn,nam-nhun
+448,Phong Thổ,phong-tho
+449,Sìn Hồ,sin-ho
+450,Tam Đường,tam-duong
+451,Tân Uyên,tan-uyen
+452,Than Uyên,than-uyen
+453,Bảo Lâm,bao-lam
+454,Bảo Lộc,bao-loc
+455,Cát Tiên,cat-tien
+456,Di Linh,di-linh
+457,Đà Lạt,da-lat
+458,Đạ Huoai,da-huoai
+459,Đạ Tẻh,da-teh
+460,Đam Rông,dam-rong
+461,Đơn Dương,don-duong
+462,Đức Trọng,duc-trong
+463,Lạc Dương,lac-duong
+464,Lâm Hà,lam-ha
+465,Bắc Sơn,bac-son
+466,Bình Gia,binh-gia
+467,Cao Lộc,cao-loc
+468,Chi Lăng,chi-lang
+469,Đình Lập,dinh-lap
+470,Hữu Lũng,huu-lung
+471,Lạng Sơn,lang-son
+472,Lộc Bình,loc-binh
+473,Tràng Định,trang-dinh
+474,Văn Lãng,van-lang
+475,Văn Quan,van-quan
+476,Bảo Thắng,bao-thang
+477,Bảo Yên,bao-yen
+478,Bát Xát,bat-xat
+479,Bắc Hà,bac-ha
+480,Lào Cai,lao-cai
+481,Mường Khương,muong-khuong
+482,Sa Pa,sa-pa
+483,Si Ma Cai,si-ma-cai
+484,Văn Bàn,van-ban
+485,Bến Lức,ben-luc
+486,Cần Đước,can-duoc
+487,Cần Giuộc,can-giuoc
+488,Châu Thành,chau-thanh
+489,Đức Hòa,duc-hoa
+490,Đức Huệ,duc-hue
+491,Kiến Tường,kien-tuong
+492,Mộc Hóa,moc-hoa
+493,Tân An,tan-an
+494,Tân Hưng,tan-hung
+495,Tân Thạnh,tan-thanh
+496,Tân Trụ,tan-tru
+497,Thạnh Hóa,thanh-hoa
+498,Thủ Thừa,thu-thua
+499,Vĩnh Hưng,vinh-hung
+500,Giao Thủy,giao-thuy
+501,Hải Hậu,hai-hau
+502,Mỹ Lộc,my-loc
+503,Nam Định,nam-dinh
+504,Nam Trực,nam-truc
+505,Nghĩa Hưng,nghia-hung
+506,Trực Ninh,truc-ninh
+507,Vụ Bản,vu-ban
+508,Xuân Trường,xuan-truong
+509,Ý Yên,y-yen
+510,Anh Sơn,anh-son
+511,Con Cuông,con-cuong
+512,Cửa Lò,cua-lo
+513,Diễn Châu,dien-chau
+514,Đô Lương,do-luong
+515,Hưng Nguyên,hung-nguyen
+516,Kỳ Sơn,ky-son
+517,Nam Đàn,nam-dan
+518,Nghi Lộc,nghi-loc
+519,Nghĩa Đàn,nghia-dan
+520,Quế Phong,que-phong
+521,Quỳ Châu,quy-chau
+522,Quỳ Hợp,quy-hop
+523,Quỳnh Lưu,quynh-luu
+524,Tân Kỳ,tan-ky
+525,Thái Hòa,thai-hoa
+526,Thanh Chương,thanh-chuong
+527,Tương Dương,tuong-duong
+528,Vinh,vinh
+529,Yên Thành,yen-thanh
+530,Gia Viễn,gia-vien
+531,Hoa Lư,hoa-lu
+532,Kim Sơn,kim-son
+533,Nho Quan,nho-quan
+534,Ninh Bình,ninh-binh
+535,Tam Điệp,tam-diep
+536,Yên Khánh,yen-khanh
+537,Yên Mô,yen-mo
+538,Bác Ái,bac-ai
+539,Ninh Hải,ninh-hai
+540,Ninh Phước,ninh-phuoc
+541,Ninh Sơn,ninh-son
+542,Phan Rang-Tháp Chàm,phan-rang-thap-cham
+543,Thuận Bắc,thuan-bac
+544,Thuận Nam,thuan-nam
+545,Cẩm Khê,cam-khe
+546,Đoan Hùng,doan-hung
+547,Hạ Hòa,ha-hoa
+548,Lâm Thao,lam-thao
+549,Phú Thọ,phu-tho
+550,Phù Ninh,phu-ninh
+551,Tam Nông,tam-nong
+552,Tân Sơn,tan-son
+553,Thanh Ba,thanh-ba
+554,Thanh Sơn,thanh-son
+555,Thanh Thủy,thanh-thuy
+556,Việt Trì,viet-tri
+557,Yên Lập,yen-lap
+558,Đông Hòa,dong-hoa
+559,Đồng Xuân,dong-xuan
+560,Phú Hòa,phu-hoa
+561,Sông Cầu,song-cau
+562,Sông Hinh,song-hinh
+563,Sơn Hòa,son-hoa
+564,Tây Hòa,tay-hoa
+565,Tuy An,tuy-an
+566,Tuy Hòa,tuy-hoa
+567,Bố Trạch,bo-trach
+568,Đồng Hới,dong-hoi
+569,Lệ Thủy,le-thuy
+570,Minh Hóa,minh-hoa
+571,Quảng Ninh,quang-ninh
+572,Quảng Trạch,quang-trach
+573,Tuyên Hóa,tuyen-hoa
+574,Bắc Trà My,bac-tra-my
+575,Duy Xuyên,duy-xuyen
+576,Đại Lộc,dai-loc
+577,Điện Bàn,dien-ban
+578,Đông Giang,dong-giang
+579,Hiệp Đức,hiep-duc
+580,Hội An,hoi-an
+581,Nam Giang,nam-giang
+582,Nam Trà My,nam-tra-my
+583,Nông Sơn,nong-son
+584,Núi Thành,nui-thanh
+585,Phú Ninh,phu-ninh
+586,Phước Sơn,phuoc-son
+587,Quế Sơn,que-son
+588,Tam Kỳ,tam-ky
+589,Tây Giang,tay-giang
+590,Thăng Bình,thang-binh
+591,Tiên Phước,tien-phuoc
+592,Ba Tơ,ba-to
+593,Bình Sơn,binh-son
+594,Đức Phổ,duc-pho
+595,Lý Sơn,ly-son
+596,Minh Long,minh-long
+597,Mộ Đức,mo-duc
+598,Nghĩa Hành,nghia-hanh
+599,Quảng Ngãi,quang-ngai
+600,Sơn Hà,son-ha
+601,Sơn Tây,son-tay
+602,Sơn Tịnh,son-tinh
+603,Tây Trà,tay-tra
+604,Trà Bồng,tra-bong
+605,Tư Nghĩa,tu-nghia
+606,Ba Chẽ,ba-che
+607,Bình Liêu,binh-lieu
+608,Cẩm Phả,cam-pha
+609,Cô Tô,co-to
+610,Đầm Hà,dam-ha
+611,Đông Triều,dong-trieu
+612,Hạ Long,ha-long
+613,Hải Hà,hai-ha
+614,Hoành Bồ,hoanh-bo
+615,Móng Cái,mong-cai
+616,Quảng Yên,quang-yen
+617,Tiên Yên,tien-yen
+618,Uông Bí,uong-bi
+619,Vân Đồn,van-don
+620,Cam Lộ,cam-lo
+621,Cồn Cỏ,con-co
+622,Đa Krông,da-krong
+623,Đông Hà,dong-ha
+624,Gio Linh,gio-linh
+625,Hải Lăng,hai-lang
+626,Hướng Hoá,huong-hoa
+627,Quảng Trị,quang-tri
+628,Triệu Phong,trieu-phong
+629,Vĩnh Linh,vinh-linh
+630,Châu Thành,chau-thanh
+631,Cù Lao Dung,cu-lao-dung
+632,Kế Sách,ke-sach
+633,Long Phú,long-phu
+634,Mỹ Tú,my-tu
+635,Mỹ Xuyên,my-xuyen
+636,Ngã Năm,nga-nam
+637,Sóc Trăng,soc-trang
+638,Thạnh Trị,thanh-tri
+639,Trần Đề,tran-de
+640,Vĩnh Châu,vinh-chau
+641,Bắc Yên,bac-yen
+642,Mai Sơn,mai-son
+643,Mộc Châu,moc-chau
+644,Mường La,muong-la
+645,Phù Yên,phu-yen
+646,Quỳnh Nhai,quynh-nhai
+647,Sông Mã,song-ma
+648,Sốp Cộp,sop-cop
+649,Sơn La,son-la
+650,Thuận Châu,thuan-chau
+651,Yên Châu,yen-chau
+652,Bến Cầu,ben-cau
+653,Châu Thành,chau-thanh
+654,Dương Minh Châu,duong-minh-chau
+655,Gò Dầu,go-dau
+656,Hòa Thành,hoa-thanh
+657,Tân Biên,tan-bien
+658,Tân Châu,tan-chau
+659,Tây Ninh,tay-ninh
+660,Trảng Bàng,trang-bang
+661,Đông Hưng,dong-hung
+662,Hưng Hà,hung-ha
+663,Kiến Xương,kien-xuong
+664,Quỳnh Phụ,quynh-phu
+665,Thái Bình,thai-binh
+666,Thái Thụy,thai-thuy
+667,Tiền Hải,tien-hai
+668,Vũ Thư,vu-thu
+669,Đại Từ,dai-tu
+670,Định Hóa,dinh-hoa
+671,Đồng Hỷ,dong-hy
+672,Phổ Yên,pho-yen
+673,Phú Bình,phu-binh
+674,Phú Lương,phu-luong
+675,Sông Công,song-cong
+676,Thái Nguyên,thai-nguyen
+677,Võ Nhai,vo-nhai
+678,Bá Thước,ba-thuoc
+679,Bỉm Sơn,bim-son
+680,Cẩm Thủy,cam-thuy
+681,Đông Sơn,dong-son
+682,Hà Trung,ha-trung
+683,Hậu Lộc,hau-loc
+684,Hoằng Hóa,hoang-hoa
+685,Lang Chánh,lang-chanh
+686,Mường Lát,muong-lat
+687,Nga Sơn,nga-son
+688,Ngọc Lặc,ngoc-lac
+689,Như Thanh,nhu-thanh
+690,Như Xuân,nhu-xuan
+691,Nông Cống,nong-cong
+692,Quan Hóa,quan-hoa
+693,Quan Sơn,quan-son
+694,Quảng Xương,quang-xuong
+695,Sầm Sơn,sam-son
+696,Thạch Thành,thach-thanh
+697,Thanh Hóa,thanh-hoa
+698,Thiệu Hóa,thieu-hoa
+699,Thọ Xuân,tho-xuan
+700,Thường Xuân,thuong-xuan
+701,Tĩnh Gia,tinh-gia
+702,Triệu Sơn,trieu-son
+703,Vĩnh Lộc,vinh-loc
+704,Yên Định,yen-dinh
+705,Huế,hue
+706,Hương Thủy,huong-thuy
+707,Hương Trà,huong-tra
+708,Nam Đông,nam-dong
+709,A Lưới,a-luoi
+710,Phong Điền,phong-dien
+711,Phú Lộc,phu-loc
+712,Phú Vang,phu-vang
+713,Quảng Điền,quang-dien
+714,Thị xã Cai Lậy,thi-xa-cai-lay
+715,Cái Bè,cai-be
+716,Châu Thành,chau-thanh
+717,Chợ Gạo,cho-gao
+718,Gò Công,go-cong
+719,Gò Công Đông,go-cong-dong
+720,Gò Công Tây,go-cong-tay
+721,Mỹ Tho,my-tho
+722,Tân Phú Đông,tan-phu-dong
+723,Tân Phước,tan-phuoc
+724,Càng Long,cang-long
+725,Cầu Kè,cau-ke
+726,Cầu Ngang,cau-ngang
+727,Châu Thành,chau-thanh
+728,Thị xã Duyên Hải,thi-xa-duyen-hai
+729,Tiểu Cần,tieu-can
+730,Trà Cú,tra-cu
+731,Trà Vinh,tra-vinh
+732,Chiêm Hóa,chiem-hoa
+733,Hàm Yên,ham-yen
+734,Lâm Bình,lam-binh
+735,Na Hang,na-hang
+736,Sơn Dương,son-duong
+737,Tuyên Quang,tuyen-quang
+738,Yên Sơn,yen-son
+739,Bình Minh,binh-minh
+740,Bình Tân,binh-tan
+741,Long Hồ,long-ho
+742,Mang Thít,mang-thit
+743,Tam Bình,tam-binh
+744,Trà Ôn,tra-on
+745,Vĩnh Long,vinh-long
+746,Vũng Liêm,vung-liem
+747,Bình Xuyên,binh-xuyen
+748,Lập Thạch,lap-thach
+749,Phúc Yên,phuc-yen
+750,Sông Lô,song-lo
+751,Tam Dương,tam-duong
+752,Tam Đảo,tam-dao
+753,Vĩnh Tường,vinh-tuong
+754,Vĩnh Yên,vinh-yen
+755,Yên Lạc,yen-lac
+756,Lục Yên,luc-yen
+757,Mù Cang Chải,mu-cang-chai
+758,Nghĩa Lộ,nghia-lo
+759,Trạm Tấu,tram-tau
+760,Trấn Yên,tran-yen
+761,Văn Chấn,van-chan
+762,Văn Yên,van-yen
+763,Yên Bái,yen-bai
+764,Yên Bình,yen-binh
+765,Bến xe Miền Đông,ben-xe-mien-dong
+766,Bến xe phía Nam Huế,ben-xe-phia-nam-hue
+767,Bến xe trung tâm Đà Nẵng,ben-xe-trung-tam-da-nang
+768,Bến xe Miền Tây,ben-xe-mien-tay
+769,Bến xe Nha Trang,ben-xe-nha-trang
+770,Bến xe liên tỉnh Đà Lạt,ben-xe-lien-tinh-da-lat
+771,Bến xe Phía Nam Nha Trang,ben-xe-phia-nam-nha-trang
+772,Bến Xe Phía Bắc Nha Trang,ben-xe-phia-bac-nha-trang
+773,Bến Xe Vũng Tàu,ben-xe-vung-tau
+774,Bến xe Bà Rịa,ben-xe-ba-ria
+775,Bến xe thị xã Long Khánh,ben-xe-thi-xa-long-khanh
+776,Bến xe Tây Ninh,ben-xe-tay-ninh
+777,Bến xe Tân Phú,ben-xe-tan-phu
+778,Bến xe Gò Công,ben-xe-go-cong
+779,Bến xe 91B Cần Thơ,ben-xe-91b-can-tho
+780,Bến xe Tánh Linh,ben-xe-tanh-linh
+781,Cổng bến xe Hải Dương,cong-ben-xe-hai-duong
+782,Bến xe Hùng Vương,ben-xe-hung-vuong
+783,,
+784,Bến xe liên tỉnh Đắk Lắk,ben-xe-lien-tinh-dak-lak
+785,Bến xe Giáp Bát,ben-xe-giap-bat
+786,Bến xe Mỹ Đình,ben-xe-my-dinh
+787,Bến xe Hà Tĩnh,ben-xe-ha-tinh
+788,BX Quảng Ngãi,bx-quang-ngai
+789,Bến xe Bồng Sơn,ben-xe-bong-son
+790,Bến Xe Đức Long Gia Lai,ben-xe-duc-long-gia-lai
+791,Bến xe khách Sông Ray,ben-xe-khach-song-ray
+792,Bến xe Vinh (cũ),ben-xe-vinh-cu
+793,Bến xe Bến Tre,ben-xe-ben-tre
+794,Bến xe khách Kiến Xương,ben-xe-khach-kien-xuong
+795,Bến xe Phố Mới,ben-xe-pho-moi
+796,Bến xe Tuyên Quang,ben-xe-tuyen-quang
+797,Bến xe Sơn La,ben-xe-son-la
+798,Bến xe khách Mường La,ben-xe-khach-muong-la
+799,Bến xe liên tỉnh Bình Định,ben-xe-lien-tinh-binh-dinh
+800,Bến xe liên tỉnh Tuy Hoà,ben-xe-lien-tinh-tuy-hoa
+801,Bến xe Lai Châu,ben-xe-lai-chau
+802,Bến xe Rạch Giá,ben-xe-rach-gia
+803,Bến xe Nước Ngầm,ben-xe-nuoc-ngam
+804,Bến xe Bù Gia Mập,ben-xe-bu-gia-map
+805,Bến xe Hà Tiên,ben-xe-ha-tien
+806,Bến xe Krông Pa,ben-xe-krong-pa
+807,Bến xe Ayunpa,ben-xe-ayunpa
+808,Thanh Phu bus station,thanh-phu-bus-station
+809,Bến xe Buôn Hồ,ben-xe-buon-ho
+810,Bến xe Tiên Yên,ben-xe-tien-yen
+811,Bến xe Lương Yên,ben-xe-luong-yen
+812,Bến xe Con Cuông,ben-xe-con-cuong
+813,Bến xe Buôn Ma Thuột,ben-xe-buon-ma-thuot
+814,Bến xe khách Bình Thuận,ben-xe-khach-binh-thuan
+815,Bến xe Cà Mau,ben-xe-ca-mau
+816,Bến xe Sóc Trăng,ben-xe-soc-trang
+817,,
+818,Bến xe An Sương,ben-xe-an-suong
+819,Bến xe Liên Hương,ben-xe-lien-huong
+820,Bến xe Long Xuyên,ben-xe-long-xuyen
+821,Bến xe Cao Lãnh,ben-xe-cao-lanh
+822,Bến xe Vĩnh Long,ben-xe-vinh-long
+823,Bến xe phía bắc Buôn Ma Thuột,ben-xe-phia-bac-buon-ma-thuot
+824,Bến xe Quy Nhơn,ben-xe-quy-nhon
+825,BX Vạn Giã ,bx-van-gia
+826,Bến xe Kim Sơn,ben-xe-kim-son
+827,Bến xe Điện Biên,ben-xe-dien-bien
+828,Bến xe Bạc Liêu,ben-xe-bac-lieu
+829,Bến xe liên tỉnh Ninh Hòa,ben-xe-lien-tinh-ninh-hoa
+830,VP Cam Ranh,vp-cam-ranh
+831,Bến xe khách Bình Dương,ben-xe-khach-binh-duong
+832,Bến xe Đạ Tẻh,ben-xe-da-teh
+833,Bến xe Bình Châu,ben-xe-binh-chau
+834,Bến xe khách huyện Xuyên Mộc,ben-xe-khach-huyen-xuyen-moc
+835,Bến xe Yên Bái,ben-xe-yen-bai
+836,Bến xe buýt Bến Cát,ben-xe-buyt-ben-cat
+837,Bến xe Kon Tum,ben-xe-kon-tum
+838,Bến xe Ngọc Hồi,ben-xe-ngoc-hoi
+839,Bến xe Móng Cái,ben-xe-mong-cai
+840,Bến xe Ba Hòn,ben-xe-ba-hon
+841,Bến xe Ninh Bình,ben-xe-ninh-binh
+842,Bến xe Ea H`leo,ben-xe-ea-h-leo
+843,Bến xe Tri Tôn,ben-xe-tri-ton
+844,Bến xe Ba Tri,ben-xe-ba-tri
+845,Tân Thanh,tan-thanh
+846,BX Sông Cầu,bx-song-cau
+847,Bến xe Thành phố Cao Bằng,ben-xe-thanh-pho-cao-bang
+848,Bến xe Phú Thọ,ben-xe-phu-tho
+849,Bến xe khách Bảo Lộc,ben-xe-khach-bao-loc
+850,Bến xe Long Hải,ben-xe-long-hai
+851,Bến xe Ngã Tư Ga,ben-xe-nga-tu-ga
+852,Bến xe phía bắc Thanh Hóa,ben-xe-phia-bac-thanh-hoa
+853,Bến xe Hà Giang,ben-xe-ha-giang
+854,Bến xe Lộc Ninh,ben-xe-loc-ninh
+855,Xuân Sơn,xuan-son
+856,Bến xe Đông Hà,ben-xe-dong-ha
+857,Khu phố Tây,khu-pho-tay
+858,Thành phố Vũng Tàu,thanh-pho-vung-tau
+859,Chợ An Đông,cho-an-dong
+860,Nha Trang,nha-trang
+861,Bến xe Lạng Sơn,ben-xe-lang-son
+862,Bến xe khách Bắc Giang,ben-xe-khach-bac-giang
+863,Bến xe Phan Thiết,ben-xe-phan-thiet
+864,Siêu thị Coop Mart trung tâm phường 1,sieu-thi-coop-mart-trung-tam-phuong-1
+865,Nhà xe Trung Kiên,nha-xe-trung-kien
+866,Bến xe Đồng Nai,ben-xe-dong-nai
+867,"Đại Lộc, Quảng Nam",dai-loc-quang-nam
+868,TP HCM,tp-hcm
+869,Bến xe Thái Bình,ben-xe-thai-binh
+870,Cát Tiên,cat-tien
+871,Bến xe Giao Thủy,ben-xe-giao-thuy
+872,Ngã ba Vũng Tàu,nga-ba-vung-tau
+873,Bến xe Trà Men,ben-xe-tra-men
+874,Mộc Châu,moc-chau
+875,Suối Nghệ,suoi-nghe
+876,Bến xe Cần Thơ,ben-xe-can-tho
+877,Bến xe Niệm Nghĩa,ben-xe-niem-nghia
+878,Tp. Thái Nguyên,tp-thai-nguyen
+879,BX Phú Lộc,bx-phu-loc
+880,Mỹ Quới,my-quoi
+881,Bến xe An Phú,ben-xe-an-phu
+882,Thái Thụy,thai-thuy
+883,Bến xe Cửa Ông,ben-xe-cua-ong
+884,Gành Hào,ganh-hao
+885,Bến xe mới Châu Đốc,ben-xe-moi-chau-doc
+886,Bến xe Bắc Ruộng,ben-xe-bac-ruong
+887,Bến xe Ô Môn,ben-xe-o-mon
+888,Thốt Nốt,thot-not
+889,Phù Cát,phu-cat
+890,Ngã 4 Vũng Tàu,nga-4-vung-tau
+891,Bến xe Tây Sơn,ben-xe-tay-son
+892,Bến xe Đức Linh,ben-xe-duc-linh
+893,Phú Yên (dọc QL1A),phu-yen-doc-ql1a
+894,Trà Vinh,tra-vinh
+895,Bến xe Rạng Đông,ben-xe-rang-dong
+896,Bến xe Đại Lộc,ben-xe-dai-loc
+897,,
+898,Bến xe Ba Đồn,ben-xe-ba-don
+899,,
+900,Bến xe Chư Sê,ben-xe-chu-se
+901,Cổng bến xe Mai Châu,cong-ben-xe-mai-chau
+902,VP Nam Phước,vp-nam-phuoc
+903,Bắc Ngầm,bac-ngam
+904,TP Hội An,tp-hoi-an
+905,Hà Nội,ha-noi
+906,Sa Đéc (dọc QL80),sa-dec-doc-ql80
+907,Vị Thanh,vi-thanh
+908,Bến xe Tam Bạc,ben-xe-tam-bac
+909,Quảng Ngãi (dọc QL1A),quang-ngai-doc-ql1a
+910,Bến xe Đồng Quang,ben-xe-dong-quang
+911,Đồng Văn (Hà Giang),dong-van-ha-giang
+912,Bãi Cháy,bai-chay
+913,Cẩm Phả,cam-pha
+914,50 Mai Thúc Loan. Tx Cửa Lò,50-mai-thuc-loan-tx-cua-lo
+915,Vĩnh Yên,vinh-yen
+916,Việt Trì,viet-tri
+917,Cát Lem - Đoan Hùng,cat-lem-doan-hung
+918,Yên Bái 9,yen-bai-9
+919,Yên Bái 30,yen-bai-30
+920,Khánh Hòa ( Lào Cai ),khanh-hoa-lao-cai
+921,Bảo Yên (Lào Cai),bao-yen-lao-cai
+922,Phú Xuyên,phu-xuyen
+923,Chợ Phủ Lý ,cho-phu-ly
+924,Nam Định,nam-dinh
+925,Đồng Văn (Hà Nam),dong-van-ha-nam
+926,Bến xe sapa,ben-xe-sapa
+927,Tòng Đậu,tong-dau
+928,Bến xe Triều Dương,ben-xe-trieu-duong
+929,Bến xe Hưng Yên,ben-xe-hung-yen
+930,Bến xe Gia Lâm,ben-xe-gia-lam
+931,Phương Lâm,phuong-lam
+932,Bồng Sơn,bong-son
+933,Bến xe Thoại Sơn,ben-xe-thoai-son
+934,Bến xe Biên Hòa,ben-xe-bien-hoa
+935,Bến xe Eakar,ben-xe-eakar
+936,Bến xe Khách M'Drắk,ben-xe-khach-m-drak
+937,Lộc Phát,loc-phat
+938,Q.Tân Bình,q-tan-binh
+939,Bến xe Gia Nghĩa,ben-xe-gia-nghia
+940,Bến xe Kiến Đức,ben-xe-kien-duc
+941,Cổng bến xe Phú Lâm ,cong-ben-xe-phu-lam
+942,Siêu thị Big C,sieu-thi-big-c
+943,T.T Kà Tum,t-t-ka-tum
+944,Tân Uyên (Bình Dương),tan-uyen-binh-duong
+945,Ngã ba Chương Hòa,nga-ba-chuong-hoa
+946,Bến xe Mũi Né,ben-xe-mui-ne
+947,Bến xe Tân Hà,ben-xe-tan-ha
+948,Chợ Tân Bình,cho-tan-binh
+949,Bến xe Trung tâm Thái Nguyên,ben-xe-trung-tam-thai-nguyen
+950,Bến xe Cầu Rào,ben-xe-cau-rao
+951,Bến xe Tân Châu,ben-xe-tan-chau
+952,Krông Năng,krong-nang
+953,Cư Kuin,cu-kuin
+954,Bến xe Đắk Mil,ben-xe-dak-mil
+955,Quảng Trường Ga,quang-truong-ga
+956,Ngọc Hồi,ngoc-hoi
+957,PleiMe,pleime
+958,Bến xe Đắk Đoa,ben-xe-dak-doa
+959,Bến xe thị xã An Khê,ben-xe-thi-xa-an-khe
+960,,
+961,Sa Thầy,sa-thay
+962,Bến xe Đắk Hà,ben-xe-dak-ha
+963,Bến xe Bờ Sông,ben-xe-bo-song
+964,Bến xe khách huyện Chợ Mới,ben-xe-khach-huyen-cho-moi
+965,Bến xe Tam Hiệp,ben-xe-tam-hiep
+966,Bến xe Yên Nghĩa,ben-xe-yen-nghia
+967,Bến xe Phước Long,ben-xe-phuoc-long
+968,Bến Xe Khách Đà Nẵng,ben-xe-khach-da-nang
+969,Bến xe Trị An,ben-xe-tri-an
+970,Bến xe Rạch Sỏi,ben-xe-rach-soi
+971,Bến xe Chợ Lớn,ben-xe-cho-lon
+972,Bến xe Quang Vinh,ben-xe-quang-vinh
+973,Bến xe Chợ Lách,ben-xe-cho-lach
+974,Bến xe Tiền Hải,ben-xe-tien-hai
+975,BXLT Phú Yên,bxlt-phu-yen
+976,,
+977,Bến xe Đức Trọng,ben-xe-duc-trong
+978,Bến xe khách Phù Mỹ,ben-xe-khach-phu-my
+979,Bến xe Ka Đô,ben-xe-ka-do
+980,Bến xe Vị Thanh,ben-xe-vi-thanh
+981,Bến xe Krông Bông,ben-xe-krong-bong
+982,Bến xe Huệ Thanh,ben-xe-hue-thanh
+983,Bến xe Cù Bị,ben-xe-cu-bi
+984,Bến xe tàu Cần Thơ,ben-xe-tau-can-tho
+985,,
+986,Bến xe khách Đò Quan,ben-xe-khach-do-quan
+987,Bến xe khách Cẩm Hải,ben-xe-khach-cam-hai
+988,Bến xe khách Sơn Hải,ben-xe-khach-son-hai
+989,Bến xe khách phía nam Đà Nẵng,ben-xe-khach-phia-nam-da-nang
+990,Bến xe huyện Long Điền,ben-xe-huyen-long-dien
+991,Bến xe khách Khánh Hưng,ben-xe-khach-khanh-hung
+992,Bến xe khách Tân Trụ,ben-xe-khach-tan-tru
+993,Bến xe khách Hậu Thạnh,ben-xe-khach-hau-thanh
+994,Bến xe Bàu Bàng,ben-xe-bau-bang
+995,Bến xe Nam Định,ben-xe-nam-dinh
+996,Bến xe khách Vĩnh Thuận,ben-xe-khach-vinh-thuan
+997,Bến xe khách Nước Mát,ben-xe-khach-nuoc-mat
+998,Bến xe khách Lục Yên,ben-xe-khach-luc-yen
+999,Bến xe khách Mậu A,ben-xe-khach-mau-a
