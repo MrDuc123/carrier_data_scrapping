@@ -23,11 +23,10 @@ def slugify(text):
 
 
 # Function to fetch data from the API
-def fetch_data(range_start, range_end):
+def fetch_data(token, type_list, range_start, range_end):
     results = []  # List to store each record as a dictionary
     url = "https://internal-vroute-cmc.vexere.com/v1/goyolo/area/"
     # Provided Bearer token
-    token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXAiOjIsInVzciI6ImZlIiwiY2lkIjoiYTRlYWM1MDAtMzYyNC0xMWU1LWFjOWUtMDkxMjRjNjAxMDEzIiwiZXhwIjoxNzQwNTg2OTY1fQ.h_VLiNtafv5CyLVrJDLiC_p__YEI76ybs_01_BSUjnQ"
 
     
     headers = {
@@ -44,6 +43,8 @@ def fetch_data(range_start, range_end):
             return None
         if response.status_code == 200:
             data = response.json()
+            if data['data']['type'] not in type_list:
+                continue
             # Check if the returned message is "success"
             if data.get("message") == "success":
                 # Extract and print the name from the "data" field
@@ -58,4 +59,6 @@ def fetch_data(range_start, range_end):
     return None
 
 if __name__ == "__main__":
-    fetch_data(1, 1000)
+    token = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ0eXAiOjIsInVzciI6ImZlIiwiY2lkIjoiYTRlYWM1MDAtMzYyNC0xMWU1LWFjOWUtMDkxMjRjNjAxMDEzIiwiZXhwIjoxNzQxMTg5NTIxfQ.2MCMdZv9jt9xnEqwsuNIVORboPPwDoUJmfO0C_AS9Ug"
+    type_list = [3, 5]
+    fetch_data(token, type_list, 1, 50)
